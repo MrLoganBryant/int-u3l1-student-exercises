@@ -2,10 +2,10 @@
 let favoriteColor;
 
 // 1. Create a variable called `favoriteFood`.
-
+let favoriteFood = "megs";
 
 // 2. Create a variable called `favoriteNumber`.
-
+let favoriteNumber=42;
 
 
 
